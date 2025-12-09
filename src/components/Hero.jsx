@@ -13,7 +13,7 @@ const Hero = () => {
 
             <div>
                 <h1>
-                    MacBook Pro
+                    MacBook Pro | Reimagined by Chirag Shetty
                 </h1>
                 <img src="/title.png" alt="MacBook Title" />
             </div>
